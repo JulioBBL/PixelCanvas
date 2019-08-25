@@ -1,0 +1,16 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "d20c4ef46f005ecd18af0919d000ae03"
+build_time: [1566693280, 127264179]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/BitsError.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Byte+Alphabet.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Byte+Control.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Byte+Digit.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/ByteBuffer+binaryFloatingPointOperations.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/ByteBuffer+peek.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/ByteBuffer+require.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/ByteBuffer+string.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Bytes.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Data+Bytes.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Data+Strings.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Bits/Deprecated.swift": [1566693031, 69951779]

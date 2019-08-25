@@ -1,0 +1,8 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "e347c22a043a847b5b65c5f93785d862"
+build_time: [1566693505, 371392637]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/crypto/Sources/Random/Array+Random.swift": [1566693031, 413969289]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/crypto/Sources/Random/OSRandom.swift": [1566693031, 413969289]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/crypto/Sources/Random/RandomProtocol.swift": [1566693031, 413969289]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/crypto/Sources/Random/URandom.swift": [1566693031, 413969289]

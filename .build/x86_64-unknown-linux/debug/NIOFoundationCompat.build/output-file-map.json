@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.build/master.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.build/ByteBuffer-foundation.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.build/ByteBuffer-foundation~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOFoundationCompat.build/ByteBuffer-foundation.swiftdeps"
+  }
+}

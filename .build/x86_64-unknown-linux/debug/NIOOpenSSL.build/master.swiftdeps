@@ -1,0 +1,21 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "1b439475ad00fa68a5d192b7d66ec232"
+build_time: [1566693505, 370803911]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1566693031, 817989853]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1566693031, 817989853]

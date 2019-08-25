@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/master.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/atomics.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/atomics.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/atomics.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/atomics~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/atomics.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOConcurrencyHelpers/lock.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/lock.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/lock.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/lock~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.build/lock.swiftdeps"
+  }
+}

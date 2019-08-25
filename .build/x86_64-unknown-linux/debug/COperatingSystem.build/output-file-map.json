@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/COperatingSystem.build/master.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/COperatingSystem/libc.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/COperatingSystem.build/libc.swiftdeps"
+  }
+}

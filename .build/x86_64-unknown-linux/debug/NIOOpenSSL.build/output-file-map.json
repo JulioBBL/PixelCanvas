@@ -1,0 +1,107 @@
+{
+  "": {
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/master.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/ByteBufferBIO.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/IdentityVerification.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLClientHandler.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLHandler.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/OpenSSLServerHandler.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/PosixPort.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLCertificate.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLConnection.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLContext.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLErrors.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLInit.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPKCS12Bundle.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPointerTricks.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPrivateKey.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLPublicKey.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/SSLVerificationCallbacks.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOOpenSSL.build/TLSConfiguration.swiftdeps"
+  }
+}

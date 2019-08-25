@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/master.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/Heap.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/Heap.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/Heap~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/Heap.swiftdeps"
+  },
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": {
+    "dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/PriorityQueue.d",
+    "object": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/PriorityQueue.swift.o",
+    "swiftmodule": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/PriorityQueue~partial.swiftmodule",
+    "swift-dependencies": "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOPriorityQueue.build/PriorityQueue.swiftdeps"
+  }
+}

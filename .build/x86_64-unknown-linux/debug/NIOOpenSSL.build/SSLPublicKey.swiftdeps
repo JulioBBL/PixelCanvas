@@ -1,0 +1,157 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "OpenSSLPublicKey"
+provides-nominal:
+- "10NIOOpenSSL16OpenSSLPublicKeyC"
+provides-member:
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", ""]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "fromInternalPointer"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "toSPKIBytes"]
+depends-top-level:
+- !private "=="
+- !private "Array"
+- "AssignmentPrecedence"
+- !private "BIO_free"
+- !private "BIO_new"
+- !private "BIO_s_mem"
+- !private "CChar"
+- !private "CNIOOpenSSL_BIO_get_mem_data"
+- !private "EVP_PKEY_free"
+- !private "NIOOpenSSLError"
+- "OpaquePointer"
+- !private "OpenSSLError"
+- "OpenSSLPublicKey"
+- "UInt8"
+- !private "UnsafeMutablePointer"
+- !private "UnsafeMutableRawBufferPointer"
+- !private "i2d_PUBKEY_bio"
+depends-member:
+- !private ["Sa", "init"]
+- !private ["SK", "init"]
+- !private ["s7CVarArgP", "make"]
+- !private ["Sl", "init"]
+- !private ["3NIO20ContiguousCollectionP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "make"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "make"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "make"]
+- !private ["Se", "map"]
+- !private ["SE", "init"]
+- !private ["SE", "make"]
+- !private ["SE", "map"]
+- !private ["SQ", "buildErrorStack"]
+- !private ["SQ", "init"]
+- !private ["SQ", "make"]
+- !private ["SQ", "map"]
+- !private ["SQ", "unableToAllocateOpenSSLObject"]
+- !private ["SQ", "unknownError"]
+- !private ["s5ErrorP", "buildErrorStack"]
+- !private ["s5ErrorP", "unableToAllocateOpenSSLObject"]
+- !private ["s5ErrorP", "unknownError"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "make"]
+- !private ["s23ExpressibleByNilLiteralP", "map"]
+- !private ["SH", "init"]
+- !private ["SH", "make"]
+- !private ["SH", "map"]
+- !private ["SM", "init"]
+- !private ["10NIOOpenSSL0A8SSLErrorO", "deinit"]
+- !private ["10NIOOpenSSL0A8SSLErrorO", "unableToAllocateOpenSSLObject"]
+- !private ["s13OpaquePointerV", "make"]
+- !private ["10NIOOpenSSL12OpenSSLErrorO", "buildErrorStack"]
+- !private ["10NIOOpenSSL12OpenSSLErrorO", "deinit"]
+- !private ["10NIOOpenSSL12OpenSSLErrorO", "unknownError"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "Array"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "BIO_free"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "BIO_new"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "BIO_s_mem"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "CChar"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "CNIOOpenSSL_BIO_get_mem_data"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "EVP_PKEY_free"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "NIOOpenSSLError"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "OpaquePointer"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "OpenSSLError"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "OpenSSLPublicKey"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "UInt8"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "UnsafeMutablePointer"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "UnsafeMutableRawBufferPointer"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "deinit"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "fromInternalPointer"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "i2d_PUBKEY_bio"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "init"]
+- !private ["10NIOOpenSSL16OpenSSLPublicKeyC", "ref"]
+- ["10NIOOpenSSL16OpenSSLPublicKeyC", "toSPKIBytes"]
+- !private ["Sq", "make"]
+- !private ["Sq", "map"]
+- !private ["Sk", "init"]
+- !private ["Sm", "init"]
+- !private ["ST", "init"]
+- !private ["Sw", "init"]
+- !private ["s14_ArrayProtocolP", "init"]
+- !private ["s24_DestructorSafeContainerP", "init"]
+- !private ["s19_HasContiguousBytesP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s12_UnwrappableP", "make"]
+- !private ["s12_UnwrappableP", "map"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "3NIO20ContiguousCollectionP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "SM"
+- !private "10NIOOpenSSL0A8SSLErrorO"
+- !private "s13OpaquePointerV"
+- !private "10NIOOpenSSL12OpenSSLErrorO"
+- "10NIOOpenSSL16OpenSSLPublicKeyC"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "Sw"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s12_UnwrappableP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl-support/module.modulemap"
+interface-hash: "f13ddbfb2792fcd6b7c27fbed8264455"

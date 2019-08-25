@@ -1,0 +1,19 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "201b210180d80b1f0358897c74aa2bef"
+build_time: [1566693280, 61812031]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/AsyncError.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Deprecated.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Exports.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+Global.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+Map.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Future+Void.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/FutureType.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1566693031, 65951574]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Async/Worker.swift": [1566693031, 65951574]

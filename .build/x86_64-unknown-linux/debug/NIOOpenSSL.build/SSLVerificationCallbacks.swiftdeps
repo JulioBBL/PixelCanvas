@@ -1,0 +1,92 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "OpenSSLVerificationResult"
+- "OpenSSLVerificationCallback"
+provides-nominal:
+- "10NIOOpenSSL25OpenSSLVerificationResultO"
+provides-member:
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", ""]
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "CInt"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "OpenSSLCertificate"
+- "OpenSSLVerificationCallback"
+- "OpenSSLVerificationResult"
+- !private "StringLiteralType"
+- !private "preconditionFailure"
+- !private "~="
+depends-member:
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "certificateVerified"]
+- !private ["SQ", "failed"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "preconditionFailure"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "certificateVerified"]
+- !private ["SH", "failed"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "preconditionFailure"]
+- !private ["s6HasherV", "combine"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "=="]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "CInt"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "__derived_enum_equals"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "_rawHashValue"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "certificateVerified"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "deinit"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "failed"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "hash"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "hashValue"]
+- ["10NIOOpenSSL25OpenSSLVerificationResultO", "init"]
+- !private ["10NIOOpenSSL25OpenSSLVerificationResultO", "preconditionFailure"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+depends-nominal:
+- !private "s23CustomStringConvertibleP"
+- !private "s26DefaultStringInterpolationV"
+- "SQ"
+- "SH"
+- !private "s6HasherV"
+- "10NIOOpenSSL25OpenSSLVerificationResultO"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+depends-dynamic-lookup:
+depends-external:
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIO.swiftmodule"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOTLS.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/Glibc.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/Dispatch.swiftmodule"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/NIOConcurrencyHelpers.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/Swift.swiftmodule"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOLinux/include/ifaddrs-android.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl/Sources/CNIOOpenSSL/include/c_nio_openssl.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOAtomics/include/CNIOAtomics.h"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/CNIOLinux/include/CNIOLinux.h"
+- "/usr/share/swift/usr/lib/swift/linux/x86_64/glibc.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOSHA1.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOOpenSSL.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CCryptoOpenSSL.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOZlib.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIODarwin.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOHTTPParser.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOAtomics.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/x86_64-unknown-linux/debug/CNIOLinux.build/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-zlib-support/module.modulemap"
+- "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio-ssl-support/module.modulemap"
+interface-hash: "81e213714a71fb01428727fa1c3af53a"

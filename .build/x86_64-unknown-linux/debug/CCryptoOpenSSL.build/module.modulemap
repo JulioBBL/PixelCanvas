@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/home/juliobrz/Git/PixelCanvas/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}

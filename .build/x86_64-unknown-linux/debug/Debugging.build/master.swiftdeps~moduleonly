@@ -1,0 +1,7 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "0462da03ddf83f93fde401c744acda20"
+build_time: [1566693038, 718620942]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1566693031, 69951779]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1566693031, 69951779]

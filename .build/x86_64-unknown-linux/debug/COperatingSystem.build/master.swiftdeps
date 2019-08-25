@@ -1,0 +1,5 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "7c0ba645e333aa55e4593083f8f25af7"
+build_time: [1566693038, 722720172]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1566693031, 69951779]

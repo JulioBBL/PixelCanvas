@@ -1,0 +1,13 @@
+version: "Swift version 5.0.2 (swift-5.0.2-RELEASE)"
+options: "ce6d8114eb76833c88cfae9fd0991b26"
+build_time: [1566693505, 370803944]
+inputs:
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": !dirty [1566693031, 261961551]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": !dirty [1566693031, 261961551]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": !dirty [1566693031, 261961551]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": !dirty [1566693031, 265961755]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPResponseCompressor.swift": !dirty [1566693031, 265961755]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": !dirty [1566693031, 265961755]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": !dirty [1566693031, 265961755]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": !dirty [1566693031, 265961755]
+  "/home/juliobrz/Git/PixelCanvas/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": !dirty [1566693031, 265961755]
